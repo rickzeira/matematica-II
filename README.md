@@ -1,10 +1,12 @@
 <DOCTYPE html>
 <head>
 <style>
-h1 {color:pink}
+<h1> {color:pink}
 <title>
 como vencer um urso na porrada
+
 </title>
+</h1>
 
 </style>
 <body>
@@ -13,9 +15,9 @@ como vencer um urso na porrada
 
 
 
-<h1>
+
 Isso mesmo que voce leu, como sentar a bolacha em um urso!!!
-</h1>
+
 </html>
 <img src="https://qph.cf2.quoracdn.net/main-qimg-ddcd6dfaf563c7936a35e4da33fb5d97-pjlq">
 
