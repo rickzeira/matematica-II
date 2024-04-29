@@ -1,13 +1,16 @@
-<html>
+<DOCTYPE html>
+<head>
 <style>
 h1 {color:pink}
+<title>
+como vencer um urso na porrada
+</title>
+
 </style>
 <body>
 
 
-<title>
-como vencer um urso na porrada
-</title>
+
 
 
 <h1>
