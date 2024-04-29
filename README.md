@@ -1,6 +1,6 @@
 <html>
 <style>
-h1{color:pink}
+h1 {color:pink}
 </style>
 <body>
 
