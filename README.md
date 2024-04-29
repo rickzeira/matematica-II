@@ -9,7 +9,7 @@ como vencer um urso na porrada
 
 </title>
 </h1>
-
+</head>
 </style>
 <body>
 
