@@ -1,7 +1,9 @@
 <DOCTYPE html>
 <head>
 <style>
-<h1> {color:pink}
+<h1>
+ {color:pink}
+
 <title>
 como vencer um urso na porrada
 
