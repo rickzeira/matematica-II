@@ -1,14 +1,14 @@
 <DOCTYPE html>
 <head>
 <style>
-<h1>
  {color:pink}
 
 <title>
+<h1>
 como vencer um urso na porrada
-
-</title>
 </h1>
+</title>
+
 </head>
 </style>
 <body>
